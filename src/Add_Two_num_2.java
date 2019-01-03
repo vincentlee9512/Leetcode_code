@@ -1,4 +1,4 @@
-class Add_Two_num {
+class Add_Two_num_2 {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         //return list
@@ -117,18 +117,18 @@ class Add_Two_num {
 
         System.out.println("Hello World!");
 
-        ListNode l1 = new Add_Two_num(). new ListNode(2);
-        l1.next = new Add_Two_num(). new ListNode(4);
-        l1.next.next = new Add_Two_num(). new ListNode(3);
+        ListNode l1 = new Add_Two_num_2(). new ListNode(2);
+        l1.next = new Add_Two_num_2(). new ListNode(4);
+        l1.next.next = new Add_Two_num_2(). new ListNode(3);
 
-        ListNode l2 = new Add_Two_num(). new ListNode(5);
-        l2.next = new Add_Two_num(). new ListNode(6);
-        l2.next.next = new Add_Two_num(). new ListNode(4);
+        ListNode l2 = new Add_Two_num_2(). new ListNode(5);
+        l2.next = new Add_Two_num_2(). new ListNode(6);
+        l2.next.next = new Add_Two_num_2(). new ListNode(4);
 
         l1.print_list(l1);
         l2.print_list(l2);
 
-        Add_Two_num atn = new Add_Two_num();
+        Add_Two_num_2 atn = new Add_Two_num_2();
 
         ListNode r = atn.addTwoNumbers(l1, l2);
 

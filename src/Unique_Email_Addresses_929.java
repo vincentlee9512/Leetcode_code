@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Unique_Email_file {
+public class Unique_Email_Addresses_929 {
 
     /**
     If you add periods ('.') between some characters in the local name part of an email address,

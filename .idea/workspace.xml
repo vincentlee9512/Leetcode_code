@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abcc5eb-8e62-479c-9e4a-a99e4cd08e91" name="Default" comment="" />
+    <list default="true" id="3abcc5eb-8e62-479c-9e4a-a99e4cd08e91" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Add_Two_num$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Add_Two_num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Longest_Substring_without_repeating_c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Unique_Email_file.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Add_Two_num_#2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jewels_and_Stones_#771.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,12 +19,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Jewels_and_Stones_771.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Jewels_and_Stones_771.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Add_Two_num</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +51,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Unique_Email_file.java" />
+        <option value="$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java" />
+        <option value="$PROJECT_DIR$/src/Add_Two_num_2.java" />
+        <option value="$PROJECT_DIR$/src/Jewels_and_Stones_771.java" />
       </list>
     </option>
   </component>
@@ -50,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -72,11 +103,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Add_Two_num&#9;RUN_CONFIGURATION&#9;Add_Two_num" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -98,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Unique_Email_file">
+  <component name="RunManager" selected="Application.Add_Two_num">
     <configuration name="Add_Two_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Add_Two_num" />
       <module name="Leetcode_code" />
@@ -162,9 +193,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Add_Two_num" />
         <item itemvalue="Application.Unique_Email_file" />
         <item itemvalue="Application.Longest_Substring_without_repeating_c" />
-        <item itemvalue="Application.Add_Two_num" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +213,8 @@
       <workItem from="1544574023944" duration="917000" />
       <workItem from="1544882929598" duration="233000" />
       <workItem from="1546474249080" duration="8082000" />
+      <workItem from="1546489263556" duration="204000" />
+      <workItem from="1546489470523" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="update setting">
       <created>1544227975269</created>
@@ -201,61 +234,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9838000" />
+    <option name="totallyTimeSpent" value="10245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="506" y="23" width="1354" height="1105" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936507" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27286586" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980158" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936507" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980158" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23246951" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980158" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22637194" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32936507" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,85 +287,51 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java">
+    <entry file="file://$PROJECT_DIR$/src/Add_Two_num_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="915">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
+    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java" />
+    <entry file="file://$PROJECT_DIR$/src/Longest_Substring_without_repeating_c.java" />
+    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
+    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java" />
+    <entry file="file://$PROJECT_DIR$/src/Longest_Substring_without_repeating_c.java" />
+    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java" />
+    <entry file="file://$PROJECT_DIR$/Leetcode_code.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java">
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_Addresses_929.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="31" lean-forward="true" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Longest_Substring_without_repeating_c.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="31" lean-forward="true" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="166" column="9" lean-forward="true" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="-86">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
-    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java">
+    <entry file="file://$PROJECT_DIR$/src/Add_Two_num_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="31" lean-forward="true" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        <state relative-caret-position="521">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Longest_Substring_without_repeating_c.java">
+    <entry file="file://$PROJECT_DIR$/src/Jewels_and_Stones_771.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="45">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Add_Two_num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="31" lean-forward="true" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_file.java" />
   </component>
   <component name="masterDetails">
     <states>

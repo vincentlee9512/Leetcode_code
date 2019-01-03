@@ -1,4 +1,7 @@
-public class Longest_Substring_without_repeating_c {
+public class Jewels_and_Stones_771 {
+
+    //solved in Javascript
+    //This file does not contain any valid code.
 
     public static int lengthOfLongestSubstring(String s) {
 
@@ -33,9 +36,9 @@ public class Longest_Substring_without_repeating_c {
         String s2 = "bbbbb";
         String s3 = "pwwkew";
 
-        System.out.println(Longest_Substring_without_repeating_c.lengthOfLongestSubstring(s1));
-        System.out.println(Longest_Substring_without_repeating_c.lengthOfLongestSubstring(s2));
-        System.out.println(Longest_Substring_without_repeating_c.lengthOfLongestSubstring(s3));
+        System.out.println(Jewels_and_Stones_771.lengthOfLongestSubstring(s1));
+        System.out.println(Jewels_and_Stones_771.lengthOfLongestSubstring(s2));
+        System.out.println(Jewels_and_Stones_771.lengthOfLongestSubstring(s3));
 
     }
 }
