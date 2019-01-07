@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abcc5eb-8e62-479c-9e4a-a99e4cd08e91" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Nrepeated_Element_961.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Add_Two_num$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Add_Two_num.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Longest_Substring_without_repeating_c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode_code/Unique_Email_file.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Add_Two_num_#2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jewels_and_Stones_#771.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Jewels_and_Stones_771.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Jewels_and_Stones_771.java">
+      <file leaf-file-name="Nrepeated_Element_961.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Nrepeated_Element_961.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+            <state relative-caret-position="248">
+              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/Unique_Email_Addresses_#929.java" />
         <option value="$PROJECT_DIR$/src/Add_Two_num_2.java" />
         <option value="$PROJECT_DIR$/src/Jewels_and_Stones_771.java" />
+        <option value="$PROJECT_DIR$/src/Nrepeated_Element_961.java" />
       </list>
     </option>
   </component>
@@ -129,14 +127,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Add_Two_num">
+  <component name="RunManager" selected="Application.Nrepeated_Element_961">
     <configuration name="Add_Two_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Add_Two_num" />
       <module name="Leetcode_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Add_Two_num_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Add_Two_num_2" />
+      <module name="Leetcode_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="Longest_Substring_without_repeating_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Longest_Substring_without_repeating_c" />
+      <module name="Leetcode_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Nrepeated_Element_961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nrepeated_Element_961" />
       <module name="Leetcode_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -190,9 +198,13 @@
       <item itemvalue="Application.Add_Two_num" />
       <item itemvalue="Application.Longest_Substring_without_repeating_c" />
       <item itemvalue="Application.Unique_Email_file" />
+      <item itemvalue="Application.Nrepeated_Element_961" />
+      <item itemvalue="Application.Add_Two_num_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nrepeated_Element_961" />
+        <item itemvalue="Application.Add_Two_num_2" />
         <item itemvalue="Application.Add_Two_num" />
         <item itemvalue="Application.Unique_Email_file" />
         <item itemvalue="Application.Longest_Substring_without_repeating_c" />
@@ -214,7 +226,7 @@
       <workItem from="1544882929598" duration="233000" />
       <workItem from="1546474249080" duration="8082000" />
       <workItem from="1546489263556" duration="204000" />
-      <workItem from="1546489470523" duration="102000" />
+      <workItem from="1546489470523" duration="3357000" />
     </task>
     <task id="LOCAL-00001" summary="update setting">
       <created>1544227975269</created>
@@ -234,7 +246,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10245000" />
+    <option name="totallyTimeSpent" value="13500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="506" y="23" width="1354" height="1105" extended-state="0" />
@@ -242,18 +254,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32936507" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936507" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23246951" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23246951" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -267,7 +280,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32936507" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,24 +323,34 @@
     <entry file="file://$PROJECT_DIR$/Leetcode_code.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unique_Email_Addresses_929.java">
+    <entry file="file://$PROJECT_DIR$/src/Jewels_and_Stones_771.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="480">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Add_Two_num_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+        <state relative-caret-position="311">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jewels_and_Stones_771.java">
+    <entry file="file://$PROJECT_DIR$/src/Unique_Email_Addresses_929.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nrepeated_Element_961.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
