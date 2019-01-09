@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abcc5eb-8e62-479c-9e4a-a99e4cd08e91" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Flipping_image_832.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flipping_image_832.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Robot_return_657.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Flipping_image_832.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Flipping_image_832.java">
+      <file leaf-file-name="Robot_return_657.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Robot_return_657.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="203">
+              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/SortArrayByParity_905.java" />
         <option value="$PROJECT_DIR$/src/Univalued_binary_tree_965.java" />
         <option value="$PROJECT_DIR$/src/Flipping_image_832.java" />
+        <option value="$PROJECT_DIR$/src/Robot_return_657.java" />
       </list>
     </option>
   </component>
@@ -80,7 +85,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +107,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,14 +133,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Flipping_image_832">
+  <component name="RunManager" selected="Application.Robot_return_657">
     <configuration name="Flipping_image_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Flipping_image_832" />
       <module name="Leetcode_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Nrepeated_Element_961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nrepeated_Element_961" />
+    <configuration name="Robot_return_657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Robot_return_657" />
       <module name="Leetcode_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -196,19 +201,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Nrepeated_Element_961" />
       <item itemvalue="Application.uniqueMorse_804" />
       <item itemvalue="Application.SortArrayByParity_905" />
       <item itemvalue="Application.Univalued_binary_tree_965" />
       <item itemvalue="Application.Flipping_image_832" />
+      <item itemvalue="Application.Robot_return_657" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Robot_return_657" />
         <item itemvalue="Application.Flipping_image_832" />
         <item itemvalue="Application.Univalued_binary_tree_965" />
         <item itemvalue="Application.SortArrayByParity_905" />
         <item itemvalue="Application.uniqueMorse_804" />
-        <item itemvalue="Application.Nrepeated_Element_961" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +233,8 @@
       <workItem from="1546474249080" duration="8082000" />
       <workItem from="1546489263556" duration="204000" />
       <workItem from="1546489470523" duration="7298000" />
-      <workItem from="1547000903649" duration="3055000" />
+      <workItem from="1547000903649" duration="3080000" />
+      <workItem from="1547018066195" duration="1653000" />
     </task>
     <task id="LOCAL-00001" summary="update setting">
       <created>1544227975269</created>
@@ -248,7 +254,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20496000" />
+    <option name="totallyTimeSpent" value="22174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="566" y="23" width="1354" height="1105" extended-state="0" />
@@ -264,11 +270,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23551829" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23856707" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -301,6 +307,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Flipping_image_832.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SortArrayByParity_905.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -357,16 +370,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nrepeated_Element_961.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jewels_and_Stones_771.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -391,7 +394,27 @@
     <entry file="file://$PROJECT_DIR$/src/Flipping_image_832.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nrepeated_Element_961.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="70" column="19" lean-forward="true" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Robot_return_657.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
