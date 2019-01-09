@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abcc5eb-8e62-479c-9e4a-a99e4cd08e91" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Univalued_binary_tree_965.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Flipping_image_832.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Univalued_binary_tree_965.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Univalued_binary_tree_965.java">
+      <file leaf-file-name="Flipping_image_832.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Flipping_image_832.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -53,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/uniqueMorse_804.java" />
         <option value="$PROJECT_DIR$/src/SortArrayByParity_905.java" />
         <option value="$PROJECT_DIR$/src/Univalued_binary_tree_965.java" />
+        <option value="$PROJECT_DIR$/src/Flipping_image_832.java" />
       </list>
     </option>
   </component>
@@ -128,9 +129,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Univalued_binary_tree_965">
-    <configuration name="Add_Two_num_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Add_Two_num_2" />
+  <component name="RunManager" selected="Application.Flipping_image_832">
+    <configuration name="Flipping_image_832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Flipping_image_832" />
       <module name="Leetcode_code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -197,18 +198,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Nrepeated_Element_961" />
-      <item itemvalue="Application.Add_Two_num_2" />
       <item itemvalue="Application.uniqueMorse_804" />
       <item itemvalue="Application.SortArrayByParity_905" />
       <item itemvalue="Application.Univalued_binary_tree_965" />
+      <item itemvalue="Application.Flipping_image_832" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Flipping_image_832" />
         <item itemvalue="Application.Univalued_binary_tree_965" />
         <item itemvalue="Application.SortArrayByParity_905" />
         <item itemvalue="Application.uniqueMorse_804" />
         <item itemvalue="Application.Nrepeated_Element_961" />
-        <item itemvalue="Application.Add_Two_num_2" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +229,7 @@
       <workItem from="1546474249080" duration="8082000" />
       <workItem from="1546489263556" duration="204000" />
       <workItem from="1546489470523" duration="7298000" />
-      <workItem from="1547000903649" duration="1407000" />
+      <workItem from="1547000903649" duration="2913000" />
     </task>
     <task id="LOCAL-00001" summary="update setting">
       <created>1544227975269</created>
@@ -248,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18848000" />
+    <option name="totallyTimeSpent" value="20354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="566" y="23" width="1354" height="1105" extended-state="0" />
@@ -264,7 +265,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936507" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -383,8 +384,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Univalued_binary_tree_965.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flipping_image_832.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
